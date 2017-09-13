@@ -1,0 +1,13 @@
+*.pyc
+*.db
+*.log
+/static/*
+.idea/
+.DS_Store
+.python-version
+node_modules/
+dist/
+migrations/
+chromedriver.exe
+phantomjs
+phantomjs.exe

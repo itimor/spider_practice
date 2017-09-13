@@ -1,0 +1,7 @@
+*.pyc
+*.db
+.idea/
+.DS_Store
+.python-version
+migrations/
+ghostdriver.log
